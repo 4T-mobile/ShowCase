@@ -3,7 +3,7 @@ Free landing page template built on top of TailwindCSS
 
 > [LIVE DEMO](https://mhaecal.github.io/frontend/skilline)
 
-![alt Free Tailwind Landing Page Template](https://i.postimg.cc/q7xRmNVp/FB-IMG-16158730841972067.jpg)
+![alt Free Tailwind Landing Page Template](https://asset.haretaworkshop.com/image/495618114.png)
 
 ## Built with:
 - Tailwind CSS ^2.0
